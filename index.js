@@ -1,4 +1,4 @@
 function message()
 {
-    console.log("frontend boot camp");
+    console.log("frontend boot camp"); 
 }
